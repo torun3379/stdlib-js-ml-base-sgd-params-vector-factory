@@ -10,3 +10,4 @@ Notes and usage details for stdlib-js-ml-base-sgd-params-vector-factory.
 - fix a small wording issue
 - add a note about the defaults
 - add a note about the defaults
+- clarify the setup steps
